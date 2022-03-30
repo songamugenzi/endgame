@@ -25,4 +25,5 @@ npm run server
 
 ## Demo
 
-Insert deployed Heroku Status here!
+[Endgame | Deployed on Heroku](https://endgameapp.herokuapp.com/login 'Deployed app')
+
